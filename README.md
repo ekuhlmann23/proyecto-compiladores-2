@@ -13,3 +13,7 @@ Abrir usando **Qt Creator** y ejecute el proyecto.
 ## Capturas de pantalla
 
 ![tarea2](./resources/tarea2.png)
+
+## Link del repositorio
+
+[Repo](https://github.com/ekuhlmann23/proyecto-compiladores-2).
