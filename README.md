@@ -17,3 +17,7 @@ Abrir usando **Qt Creator** y ejecute el proyecto.
 ## Link del repositorio
 
 [Repo](https://github.com/ekuhlmann23/proyecto-compiladores-2).
+
+## Tecnologías utilizadas
+
+El compilador entre C++ y el lenguaje intermedio fue elaborado utilizando **antlr4**. Para el compilador entre el lenguaje intermedio y código binario se utilizó **flex** y **yacc**. Los lenguajes de programación utilizados para el proyecto fueron C y C++, y la interfaz gráfica de usuario se desarrolló usando Qt.
