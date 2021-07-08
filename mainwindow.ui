@@ -60,20 +60,10 @@
     </item>
     <item row="3" column="1" colspan="3">
      <layout class="QGridLayout" name="gridLayout_2">
-      <item row="2" column="0">
-       <widget class="QTableWidget" name="tab_instructions"/>
-      </item>
-      <item row="2" column="2">
+      <item row="2" column="1">
        <widget class="QTableWidget" name="tab_symbols"/>
       </item>
-      <item row="0" column="0">
-       <widget class="QLabel" name="lbl_instructions">
-        <property name="text">
-         <string>Instructions</string>
-        </property>
-       </widget>
-      </item>
-      <item row="0" column="2">
+      <item row="0" column="1">
        <widget class="QLabel" name="lbl_symbols">
         <property name="text">
          <string>Symbols</string>
@@ -90,7 +80,7 @@
      <x>0</x>
      <y>0</y>
      <width>1030</width>
-     <height>20</height>
+     <height>22</height>
     </rect>
    </property>
   </widget>
